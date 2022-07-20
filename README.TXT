@@ -1,0 +1,1 @@
+After packaging when you run the jar, make sure to add [Main-Class:kyle.kc.advance.pokertest.KCAdvancePokerTest] to the jar on the second line before running
